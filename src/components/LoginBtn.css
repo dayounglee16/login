@@ -1,0 +1,16 @@
+.btnWrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.LoginBtn {
+  min-width: 300px;
+  padding: 15px;
+  margin-top: 10px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: rgb(78, 95, 116);
+  color: #fff;
+}
